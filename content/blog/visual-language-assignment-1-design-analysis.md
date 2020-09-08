@@ -39,7 +39,7 @@ This piece does not use a lot of negative space, if anything I think it uses the
 
 # Typography
 
-![trainspotting negative space](/../assets/VL/trainspotting-neg.png)
+![trainspotting negative space](/../assets/VL/trainspotting-typography.png)
 
 Using "What the Font?" I was able to identify the main <em>Trainspotting</em> typeface to be Arial Arabic Bold. With that matching the text at the bottom of the poster. This font is used for the most obvious/largest parts of the poster. It is always bold and the artist uses different colors to highlight its importance. Not once does it have the same weight as the block quote. 
 
@@ -47,7 +47,7 @@ Using the same process, I loosely identified the main paragraph to be PIXymbols 
 
 # Colors
 
-![trainspotting negative space](/../assets/VL/trainspotting-neg.png)
+![trainspotting negative space](/../assets/VL/trainspotting-colors.png)
 
 This poster largely uses orange to provide emphasis. Otherwise, it is using black and white to, I think, prioritize readability.
 
