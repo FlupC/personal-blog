@@ -4,11 +4,11 @@ date: 2020-09-08T13:37:24.718Z
 title: "Visual Language Assignment 1: Design Analysis"
 description: "Assignmen 1: Visual Language 2020"
 ---
-![trainspotting poster](/content/assets/VL/trainspotting.jpg)
+![trainspotting poster](/../assets/VL/trainspotting.jpg)
 
 # Hierarchy
 
-![trainspotting hierarchy](/content/assets/VL/trainspotting-hierarchy.png)
+![trainspotting hierarchy](/../assets/VL/trainspotting-hierarchy.png)
 
 This movie poster is really unique in its structure. It is largely overwhelming, there is text literally everywhere, but the hectic design actually informs the hierarchy of the piece. 
 
@@ -20,7 +20,7 @@ Without actually providing any visuals about the movie, the quote expresses an o
 
 # Grid System
 
-![trainspotting grid](/content/assets/VL/trainspotting-grid.png)
+![trainspotting grid](/../assets/VL/trainspotting-grid.png)
 
 For this poster, I felt that it didn't particularly follow a classic "rule of thirds," but had a very distinct grid system. Primarily, it is 3 blocked out grids existing side by side.
 
@@ -33,13 +33,13 @@ I also added the purple lines to express some of the intentionality behind the s
 
 # Negative Space
 
-![trainspotting negative space](/content/assets/VL/trainspotting-neg.png)
+![trainspotting negative space](/../assets/VL/trainspotting-neg.png)
 
 This piece does not use a lot of negative space, if anything I think it uses the lack of negative space to its advantage. The lack of negative space is chaotic. 
 
 # Typography
 
-![trainspotting negative space](/content/assets/VL/trainspotting-neg.png)
+![trainspotting negative space](/../assets/VL/trainspotting-neg.png)
 
 Using "What the Font?" I was able to identify the main <em>Trainspotting</em> typeface to be Arial Arabic Bold. With that matching the text at the bottom of the poster. This font is used for the most obvious/largest parts of the poster. It is always bold and the artist uses different colors to highlight its importance. Not once does it have the same weight as the block quote. 
 
@@ -47,7 +47,7 @@ Using the same process, I loosely identified the main paragraph to be PIXymbols 
 
 # Colors
 
-![trainspotting negative space](/content/assets/VL/trainspotting-neg.png)
+![trainspotting negative space](/../assets/VL/trainspotting-neg.png)
 
 This poster largely uses orange to provide emphasis. Otherwise, it is using black and white to, I think, prioritize readability.
 
