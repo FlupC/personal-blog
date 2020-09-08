@@ -6,7 +6,7 @@ description: "Assignmen 1: Visual Language 2020"
 ---
 ![trainspotting poster](/content/assets/VL/trainspotting.jpg)
 
--># Hierarchy<-
+# Hierarchy
 
 This movie poster is really unique in its structure. It is largely overwhelming, there is text literally everywhere, but hectic design actually informs the hierarchy of the piece. 
 
@@ -16,7 +16,7 @@ From there, it is time to tackle the <em>Choose your Future</em> and massive blo
 
 Without actually providing any visuals about the movie, the quote expresses an overwhelmed, nihilistic point of view, which is shown throughout the film.
 
--># Grid System<-
+# Grid System
 
 ![trainspotting grid](/content/assets/VL/trainspotting-grid.png)
 
@@ -29,13 +29,13 @@ This is a particularly organized, yet untraditional design choice for the medium
 I also added the purple lines to express some of the intentionality behind the sides and placements of the text. They are just a little less than a third each, if one were to maintain this grid design, they could design a myriad of visually balanced posters. However, in our case, we let this intense quote consume the poster (just as it would consume the characters). 
 
 
--># Negative Space<-
+# Negative Space
 
 ![trainspotting negative space](/content/assets/VL/trainspotting-neg.png)
 
 This pieces does not use a lot of negative space, if any. I did want to highlight that the orange around the main <em>Trainspotting</em> typeface is the only large block of color, and it draws the viewer attention that way. 
 
--># Typography<-
+# Typography
 
 ![trainspotting negative space](/content/assets/VL/trainspotting-neg.png)
 
@@ -43,7 +43,7 @@ Using "What the Font?" I was able to identify the main <em>Trainspotting</em> ty
 
 Using the same process, I loosely identified the main paragraph to be PIXymbols Boxkey Regular. I say loosely, because it is small and resembles a few fonts. It could also be a classic Helvetica or even the same font as "Trainspotting". That said, it is a small text that is supposed to be easy to reach, much like a book. It would be very difficult to assign a unique and different typeface to such a small area. This was done with the thought of readability. 
 
--># Colors<-
+# Colors
 
 ![trainspotting negative space](/content/assets/VL/trainspotting-neg.png)
 
