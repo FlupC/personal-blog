@@ -132,23 +132,23 @@ So, I first had to figure out how to finish a circuit with a turning device.
 
 First, I made a small cardboard cylinder with a strip of tinfoil around it.
 
-![turnkeySocket](/../assets/pComp/week1/creative1.png)
+![turnkeySocket](/../assets/pComp/week1/creative1.PNG)
 
 Next, I made a cardboard piece that had 2 pieces of tinfoil that were not connected (the turnkey would connect them)
 
-![circuit switch area](/../assets/pComp/week1/creative2.png)
+![circuit switch area](/../assets/pComp/week1/creative2.PNG)
 
 Third, I completed the circuit using aligator clips to handle the distance from the breadboard. 
 
-![circuit completed](/../assets/pComp/week1/creative3.png)
+![circuit completed](/../assets/pComp/week1/creative3.PNG)
 
 Then, I upgraded some of the parts (including the initial turnkey) and hot glued it into an enclosure. The "device" worked by using a conductive material to bridge the gap between the wires. The enclosure looked like this from the side:
 
-![enclosure](/../assets/pComp/week1/creative4.png)
+![enclosure](/../assets/pComp/week1/creative4.PNG)
 
 And this from the front:
 
-![enclosure](/../assets/pComp/week1/creative5.png)
+![enclosure](/../assets/pComp/week1/creative5.PNG)
 
 ### Arrangement of Switches
 
@@ -162,13 +162,13 @@ This switch worked when any one of the buttons was pressed.
 
 This switch worked ONLY when all 3 switches were pressed.
 
-![parallel Switches](/../assets/pComp/week1/sswitches.png)
+![parallel Switches](/../assets/pComp/week1/switchSeries.png)
 
 ##### Switching A Motor
 
 I used a DC motor that I had laying around for this, but noticed that only a Servo was on the part list. I was going to use the Servo, but it appears that it requires programming in the arduino to function? 
 
-ADD MOTOR VIDEo
+ADD MOTOR VIDE)
 
 ##### Dual Pole Switch
 
