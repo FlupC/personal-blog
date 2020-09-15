@@ -94,7 +94,7 @@ I am honestly baffled that I was able to get this image at all. In the off posit
 
 Here is a switch with 2 LEDs in series:
 
-ADD SERIES VIDEO
+'vimeo: https://vimeo.com/458159758/1397d47b65'
 
 The voltage across the resistor and 2 LED's approximately reaches that of the total Voltage (perhaps just a smidge off). The rest is likely lost in heat.
 
@@ -106,7 +106,7 @@ This makes it so that the LED's will not light up. It appears as though each LED
 
 Here is a switch with 3 LEDs in Parallel:
 
-ADD PARALLEL VIDEO
+'vimeo: https://vimeo.com/458160095/0254b518cd'
 
 As suggested, the voltage across the LEDs is exactly the same (give or take human error).
 
@@ -116,7 +116,7 @@ Unfortunately, I was not able to put the multimeter in series and take a photo, 
 
 Firstly,  I had not yet watched the soldering tutorial, nor did it make sense for me to solder at the moment I was doing this lab. Instead, I used alligator clips to successfully use the Pot. 
 
-ADD POT VIDEO
+'vimeo: https://vimeo.com/458160951/d49ed7785a'
 
 One thing I noticed about this specific exercise is that my potentiometer didn't work exactly the same way as it is described. I had a bell-curve version where either extreme was the brightest and the middle was 0. Did I do something wrong?
 
@@ -124,7 +124,7 @@ One thing I noticed about this specific exercise is that my potentiometer didn't
 
 ### Creative Switch
 
-ADD CREATIVE SWITCH VIDEO
+'vimeo: https://vimeo.com/458161448/250ff23de0'
 
 For this I decided to make Turnkey switch. I figured it would be a fun experiment to make something where turning a dial would activate a light.
 
@@ -168,10 +168,10 @@ This switch worked ONLY when all 3 switches were pressed.
 
 I used a DC motor that I had laying around for this, but noticed that only a Servo was on the part list. I was going to use the Servo, but it appears that it requires programming in the arduino to function? 
 
-ADD MOTOR VIDE)
+'vimeo: https://vimeo.com/458162789/a4218e1dec'
 
 ##### Dual Pole Switch
 
 Completed switch:
 
-DUAL POLE SWITCH VIDEO
+'vimeo: https://vimeo.com/458163151/fc2d510d00'
