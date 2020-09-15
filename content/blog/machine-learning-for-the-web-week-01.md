@@ -6,6 +6,8 @@ description: HW for ml42 - Yining Shi, Fall 2020
 ---
 # Image Classifier Photosynthesis
 
+[LIVE HERE](https://flupc.github.io/ml4w_HW_CDX/week1/) 
+
 For this assignment, I was not sure what to do. I was struggling to get consistent readings on objects (still am, but now its ~inspired~). 
 
 However, when I was working on it, I noticed that the lights on my ceiling were registering as "spotlight." I was able to recreate that reading with my phone flashlight.
