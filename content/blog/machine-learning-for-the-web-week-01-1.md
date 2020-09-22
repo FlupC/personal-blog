@@ -1,7 +1,7 @@
 ---
 path: ml4w-week2
 date: 2020-09-21T16:42:13.209Z
-title: Machine Learning for the Web - Week 01
+title: Machine Learning for the Web - Week 02
 description: HW2 for ml42 - Yining Shi, Fall 2020
 ---
 # Teachable Machine Ukulele Visualizer
