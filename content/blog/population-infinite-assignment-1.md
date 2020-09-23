@@ -8,7 +8,7 @@ description: Puppeteer.js Assignment for Population Infinite
 
 For this specific assignment, I chose to make something that breaks up with your partner, unfollows them, then watches all your stories and likes some posts to help you cope. 
 
-VIDEO HER
+`vimeo: https://vimeo.com/461117401`
 
 First it was a matter of logging in, which was not too tough as it was in the examples from class.
 
