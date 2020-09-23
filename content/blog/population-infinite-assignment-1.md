@@ -40,7 +40,8 @@ await page.type("input[name=password]", "PASSWORD", { delay: 50 });
 
 After that, there were a couple of popup prompts that I needed to get through. I tried to ignore them, but they were really getting in the way. I was also having issues with my browser not detecting them early enough and causing an error. I was able to find online: ```await Promise.all([]);``` that forced things to wait until they happened. 
 
-```//wait for credentials to be typed in
+```
+//wait for credentials to be typed in
 await Promise.all([
   page.click("button[type=submit]"),
   page.waitForNavigation({ waitUntil: "networkidle0" }),
