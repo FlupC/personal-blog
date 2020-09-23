@@ -58,7 +58,8 @@ await page.click("button.HoLwm");
 ```
 Obviously, after you get into instagram, you need to tell your partner that you're THROUGH. So, puppeteer needs to navigate to the individuals page and select message. 
 
-```//Send a Message over insta DM
+```
+//Send a Message over insta DM
 //click searchbar
 await page.click("a.xWeGp");
 
