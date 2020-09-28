@@ -1,7 +1,7 @@
 ---
 path: asgn3-VL
 date: 2020-09-28T21:14:50.242Z
-title: "Visual Language Assignment 2: Color Compositions"
+title: "Visual Language Assignment 3: Color Compositions"
 description: Assignment 3 Color Compositions
 ---
 # Color Compositions
