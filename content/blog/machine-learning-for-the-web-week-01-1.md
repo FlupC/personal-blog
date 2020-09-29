@@ -14,7 +14,7 @@ It worked pretty well, but after about 40 samples, it wouldn't let me save it an
 
 There were 2 challenges with this project. The first was roomtone. I was never able to get my code to accurately identify the roomtone, which was odd because the teachable machine was able to identify it incredibly reliably. Below you can see a screenshot of what TM outputted about roomtone. My code would never give me a confidence value of above .17 (never the winner). 
 
-![background noise](/../assets/Vml4w/bgnoise.png)
+![background noise](/../assets/ml4w/bgnoise.png)
 
 This made it really hard to actually visualize things. Without that "null" state, it is always visualizing, but at a certain point, I cut my losses. This may work better with p5.js pitch detection than with ML. 
 
