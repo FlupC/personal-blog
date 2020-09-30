@@ -1,7 +1,7 @@
 ---
 path: popInf-asgn2
 date: 2020-09-30T16:43:02.495Z
-title: "Population Infinite: Assignment 1"
+title: "Population Infinite: Assignment 2"
 description: Training Model Assignment for Population Infinite
 ---
 # Runway Text Model
