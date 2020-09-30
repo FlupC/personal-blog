@@ -20,3 +20,8 @@ With this in mind, I produced 3 generative art pieces, and 1 in adobe illustrato
 ![Random Composition](/../assets/VL/comp2.png)
 ![Math Composition](/../assets/VL/comp3.png)
 ![Illustrator Composition](/../assets/VL/comp4.png)
+
+# 99% Invisible Response
+
+I think the parts of this that made the most impacts on me were the exploration of the sociological parts to color. Specifically, I really liked the story about Mauve. It wasn't particularly popular, but when a celebrity wore it, everyone was suddenly interested in a color nobody cared about. Furthermore, it wasn't a color that fashion businesses could just pump out, there were different shades while people figured out the right combo. 
+I also connected with the discussion about Pink. The fact that all pink is, is a light red, but light yellow, light blue, etc don't have specific names is very interesting. It had me thinking about the Russian (that she spoke about very briefly). In Russian, there is "Goluboy" and "Sinies" that differentiate light and dark blues. Because of this distinction, Russian speakers "see" more blues than english speakers. Its not because they can perceive more blues, but because they can classify them as distinctly different colors. 
