@@ -6,7 +6,7 @@ description: HW4 for ml4w - Yining Shi, Fall 2020
 ---
 # Faces Among Us
 
-![LIVE HERE, works best on Mobile](https://flupc.github.io/ml4w_HW_CDX/Week4/)
+[LIVE HERE, works best on Mobile](https://flupc.github.io/ml4w_HW_CDX/Week4/)
 
 I was inspired by the idea of "The Man in the Moon." I love the idea that we can find so many different people among inanimate life. 
 
