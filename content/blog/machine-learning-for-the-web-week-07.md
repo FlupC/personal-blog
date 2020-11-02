@@ -4,7 +4,7 @@ date: 2020-10-25T18:31:46.689Z
 title: Machine Learning for the Web - Week 07
 description: HW7 for ml4w - Yining Shi, Fall 2020
 ---
-# ReefGAN
+# ReefFishGAN
 
 For this week's assignment, I decided to use Runway to create my own Image Generation model.
 
