@@ -4,7 +4,7 @@ date: 2020-11-02T19:46:12.447Z
 title: Machine Learning for the Web - Week 08
 description: HW8 for ml4w - Yining Shi, Fall 2020
 ---
-#CoralGAN
+# CoralGAN
 
 For this week's assignment, I decided to use Runway to create my own Image Generation model.
 
