@@ -1,8 +1,8 @@
 ---
-path: pCompWeekAssignment2
+path: pCompWeekAssignment2prop
 date: 2020-10-27T21:59:05.121Z
-title: "Physical Computing: Assignment 2"
-description: Labs from Physical Computing Assignment 2
+title: "Physical Computing: Assignment 2 Proposal"
+description: Proposal from Physical Computing Assignment 2
 ---
 # Assignment 2
 
