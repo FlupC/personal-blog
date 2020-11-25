@@ -40,11 +40,11 @@ These are not done because I need to 3D print the piece before I can get exact m
 
 I think I want to put them next to one another equidistantly and drill the motor mounts into a thin sheet of wood.
 
-![Mounting](/../assets/pComp/week8/mounting.png)
+![Mounting](/../assets/pComp/final/mounting.png)
 
 Then, I want to slide that piece into a frame that I will build on the floor somehow. Like so:
 
-![Frame and Connection](/../assets/pComp/week8/frame.png)
+![Frame and Connection](/../assets/pComp/final/frame.png)
 
 ### Progress 
 
