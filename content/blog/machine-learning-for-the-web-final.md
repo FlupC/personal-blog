@@ -7,6 +7,7 @@ description: Final for ml4w - Yining Shi, Fall 2020
 # Pixel Topographies
 
 ### The Concept
+
 My family sold the house I grew up in this year, which was very sudden, but for the best. I had never really been that connected to my home state, but when I realized I may never go back there, I realized that I had come to really appreciate it as a place to grow up.
 
 We ended up renting a house not too far from where I grew up to get through the pandemic, but it made me think about what it was that caused me to become so nostalgic. What kept popping into my head was that it is a beautiful place. It has lovely forests, beautiful colors, coastal towns, and even a few mountains.
@@ -17,6 +18,8 @@ I've also been inspired by the idea of a computer screens being 3-Dimensional. S
 
 For this assignment, I have decided to combine these concepts to create "Pixel Topographies", a 3D pixel computing piece that visualizes CT elevations
 
+## **Pixel Topographies uses machine learning to generate elevation maps based on Connecticut topography, then creates a tangible 3D representation of that data.**
+
 ### The Product
 
 `vimeo: https://vimeo.com/488813688`
@@ -26,6 +29,14 @@ For this assignment, I have decided to combine these concepts to create "Pixel T
 ![HD Image CloseUp](/../assets/pComp/final/hd/HD_CU.png)
 
 ![HD Image 3/4](/../assets/pComp/final/hd/HD_3_4.png)
+
+##### What is next?
+
+I'd like to try a couple of things with this project.
+Firstly, I want to try to scale it up. Ideally I want to make it as large as possible in an attempt to replicate an entire topography. 
+
+After that, I want to reverse the project. Using some sort of tangible piece, I want users to be able to craft their own topography, which could be projected somewhere. 
+
 
 ### The How
 
@@ -42,6 +53,8 @@ I brought this data into RunwayML and trained it over a couple of hours. As I su
 ![CT Elevation Model Ouptut](/../assets/pComp/final/ml/train.png)
 
 ##### P5.js
+
+[Sketch](https://editor.p5js.org/FlupC/sketches/Ht3j5VjEi)
 
 From here, I used a "hosted model" in runway to access the model and bring new images into p5.js.
 
@@ -190,4 +203,3 @@ Here, I have decided to dump a chronological process of my fabrication.
 ![FAB 11](/../assets/pComp/final/fab/11.png)
 
 ![FAB 12](/../assets/pComp/final/fab/12.png)
-
