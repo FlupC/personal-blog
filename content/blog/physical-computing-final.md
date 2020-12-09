@@ -19,7 +19,7 @@ For this assignment, I have decided to combine these concepts to create "Pixel T
 
 ### The Product
 
-FINAL PRODUCT VIDEO
+`vimeo: https://vimeo.com/488813688`
 
 ![HD Image Front](/../assets/pComp/final/hd/HD_Front.png)
 
