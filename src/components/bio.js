@@ -34,11 +34,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>, a framework built upon the
-              React library.
+              Written by <strong>{author}</strong>, current ITP student and Creative Technologist.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Follow me on Twitter
+              <a href={`https://www.instagram.com/${social.insta}`}>
+                Follow me on Instagram
               </a>
             </p>
           </Container>
